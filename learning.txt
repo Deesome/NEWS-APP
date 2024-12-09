@@ -1,0 +1,38 @@
+💡 Technical Learnings
+1. React Fundamentals:
+Components: Learned how to build reusable components like Header, Search, and Footer.
+Props & State: Managed data flow within components using props and useState.
+Lifecycle Management: Used useEffect for fetching data and handling side effects.
+2. API Integration:
+Integrated a third-party API (newsapi.org) to fetch dynamic data.
+Constructed API URLs with query parameters like q for search functionality.
+Handled errors gracefully in the useFetch custom hook.
+3. Custom Hooks:
+Created and used a custom hook (useFetch) for reusing API logic.
+Improved code reusability and separation of concerns.
+4. React Router:
+Implemented react-router for navigation between pages like Home and Category.
+Used nested routes with Outlet to manage layouts effectively.
+5. Event Handling:
+Handled input events (onChange) to capture search queries.
+Managed button clicks to trigger the search functionality.
+6. Folder Structure & Code Organization:
+Followed a structured approach with clear separation for components, assets, and hooks.
+Organized files to make the project scalable.
+7. Conditional Rendering:
+Displayed different UI states (loading, error, and success) based on the API response.
+8. CSS & Responsiveness:
+Applied custom styling to make the app visually appealing.
+Used classes for responsive design, ensuring usability on mobile devices.
+
+🛠️ Development Practices
+Debugging Skills:
+
+Debugged and fixed issues like incorrect data rendering or input handling.
+Learned to trace errors in components and API responses.
+Problem-Solving:
+
+Figured out how to manage dynamic search and handle edge cases, such as empty queries.
+Modular Design:
+
+Kept components focused on single responsibilities for easier maintenance.
